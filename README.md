@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @realjode
+- 👀 I’m interested in #nostr & learning new things
+- 🌱 I’m currently learning java & jode
+- 💞️ I’m looking to collaborate on #nostr related projects 
+- 📫 How to reach me on #nostr
