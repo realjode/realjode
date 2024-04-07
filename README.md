@@ -1,3 +1,6 @@
+this is a list i am reading and didn't compile  
+
+
 nostr.net services [relay.nostr.net](https://relay.nostr.net) ||  [nostr.at](https://nostr.at) || [broadcaster.nostr.net](https://broadcaster.nostr.net) 
 
 "nostr" stands for "**N**otes and **O**ther **S**tuff **T**ransmitted by
