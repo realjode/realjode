@@ -1,10 +1,6 @@
 this is a list i am reading and didn't compile  
 
-
 nostr.net services [relay.nostr.net](https://relay.nostr.net) ||  [nostr.at](https://nostr.at) || [broadcaster.nostr.net](https://broadcaster.nostr.net) 
-
-"nostr" stands for "**N**otes and **O**ther **S**tuff **T**ransmitted by
-**R**elays" and is an open protocol for censorship-resistant global networks.
 
 ## Most popular
 ### Mobile clients
@@ -19,7 +15,6 @@ nostr.net services [relay.nostr.net](https://relay.nostr.net) ||  [nostr.at](htt
 - [iris.to](https://iris.to/)
 - [primal.net](https://primal.net/)
 - [coracle.social](https://coracle.social/)
-
 
 ## Protocol
 
@@ -585,21 +580,3 @@ Outside of nostr itself, you find the community on:
 - [njump.me](https://njump.me/) - hosted http gateway for browsing profiles, notes and relays
 
 
-## Deprecated
-
-- [alphaama.com](https://alphaama.com) - is _under maintenance_ as of late 2022.
-- [branle](https://github.com/fiatjaf/branle)![stars](https://img.shields.io/github/stars/fiatjaf/branle.svg?style=social) - a Twitter-like client that was discontinued but lives on in its fork "Astral".
-- [Flamingo](https://www.getflamingo.org) - Nostr browser extension with a focus on UX
-- [Listr](https://github.com/sepehr-safari/listr) ![stars](https://img.shields.io/github/stars/sepehr-safari/listr.svg?style=social) - A Nostr Web Client for Making Lists.
-- [expensive relay](https://github.com/fiatjaf/expensive-relay)![stars](https://img.shields.io/github/stars/fiatjaf/expensive-relay.svg?style=social)- a relay that requires payment for registration
-- [nodestr](https://github.com/Dolu89/nodestr-relay)![stars](https://img.shields.io/github/stars/Dolu89/nodestr-relay.svg?style=social) - a Node.js implementation
-- [Hamstr](https://github.com/styppo/hamstr)![stars](https://img.shields.io/github/stars/styppo/hamstr.svg?style=social) - A twitter-style web client built with Vue.js
-  - [hamstr.to](https://hamstr.to)
-
-Data for this list is contributed by the community and curated by [@aaaljaz](https://twitter.com/aaaljaz) ( npub1aljazgxlpnpfp7n5sunlk3dvfp72456x6nezjw4sd850q879rxqsthg9jp)
-
-## Contributors
-
-<a align="center" href="https://github.com/aljazceru/awesome-nostr/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=aljazceru/awesome-nostr" />
-</a>
